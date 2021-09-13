@@ -4,11 +4,9 @@ on:
   push:
     tags: 
     - 'v*'
-    branches: [ main ]
   pull_request:
     tags: 
     - 'v*'
-    branches: [ main ]
 
 env: 
   PROJECT_PATH: 'src/ComparisonExtensions/ComparisonExtensions.csproj'
