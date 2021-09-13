@@ -61,10 +61,6 @@ namespace ComparisonExtensions
             return right - left > -DoublePrecision;
         }
         
-        
-        
-        
-        
         /// <summary>
         /// Checks for equality of two numbers with a certain precison value.
         /// </summary>
