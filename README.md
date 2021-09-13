@@ -1,3 +1,5 @@
+[![Deploy to Nuget Repository](https://github.com/kerimbal/floating-comparison/actions/workflows/deploy-nuget.yml/badge.svg)](https://github.com/kerimbal/floating-comparison/actions/workflows/deploy-nuget.yml)
+
 # floating-comparison
 Comparion extensions for .Net floating types.
 
