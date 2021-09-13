@@ -11,4 +11,7 @@
         <PackageId>FloatingComparisonExtensions</PackageId>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
 </Project>
