@@ -4,7 +4,7 @@ namespace ComparisonExtensions
 {
     public static class FloatingComparisonExtensions
     {
-        private const double DoublePrecision = 0.000000000000001;
+        private const double DoublePrecision = 0.000000000001;
         private const float FloatPrecision = (float) 0.0000001;
 
         /// <summary>
