@@ -1,4 +1,4 @@
-[![Build](https://github.com/kerimbal/floating-comparison/actions/workflows/build-test.yml/badge.svg?branch=main)](https://github.com/kerimbal/floating-comparison/actions/workflows/build-test.yml)
+[![Build and Test](https://github.com/kerimbal/floating-comparison/actions/workflows/build-test.yml/badge.svg?branch=main)](https://github.com/kerimbal/floating-comparison/actions/workflows/build-test.yml)
 
 # floating-comparison
 Comparion extensions for .Net floating types.
