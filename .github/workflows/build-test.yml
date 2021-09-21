@@ -1,4 +1,4 @@
-name: Deploy to Nuget Repository
+name: Build and Test
 
 on: workflow_dispatch
   
