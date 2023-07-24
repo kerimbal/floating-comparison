@@ -1,13 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net5.0</TargetFramework>
+        <TargetFrameworks>netstandard1.0;net6.0</TargetFrameworks>
+        <LangVersion>9</LangVersion>
         <Title>Floating Comparison Extensions</Title>
         <Authors>kerimbal</Authors>
         <Description>Extension for floating types for comparison with a certain precision value. </Description>
         <PackageTags>.NET, C#,  double, single, compare, comparison</PackageTags>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <FileVersion>1.0.0.0</FileVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
+        <FileVersion>1.1.0.0</FileVersion>
         <PackageId>FloatingComparisonExtensions</PackageId>
         <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
